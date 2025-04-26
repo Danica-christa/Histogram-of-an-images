@@ -84,29 +84,25 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+
 ![Screenshot 2025-04-26 122938](https://github.com/user-attachments/assets/b1142b01-ff7f-4e97-afb9-ebf6e95dc072)
 
 ![Screenshot 2025-04-26 123021](https://github.com/user-attachments/assets/1f74d423-fb37-46e7-b335-6005973969ff)
+
+### Histogram of Grayscale Image and any channel of Color Image
+
+ ![Screenshot 2025-04-26 123638](https://github.com/user-attachments/assets/00241f92-78b6-4077-81cd-3fae8c95205b)
+
+![Screenshot 2025-04-26 123647](https://github.com/user-attachments/assets/8adc83bd-407d-42ae-958a-0a07527caa60)
 
 ![Screenshot 2025-04-26 123653](https://github.com/user-attachments/assets/3fe4acfd-1c21-42be-8025-c7b3f4443777)
 
 ![Screenshot 2025-04-26 123659](https://github.com/user-attachments/assets/114eee8e-d109-4bcb-aa01-924dd1ff2fa0)
 
 
-
-### Histogram of Grayscale Image and any channel of Color Image
- ![Screenshot 2025-04-26 123638](https://github.com/user-attachments/assets/00241f92-78b6-4077-81cd-3fae8c95205b)
-
-![Screenshot 2025-04-26 123647](https://github.com/user-attachments/assets/8adc83bd-407d-42ae-958a-0a07527caa60)
-
-
-
-
 ### Histogram Equalization of Grayscale Image.
-![image](https://github.com/user-attachments/assets/4618cee1-8dcc-4d47-909d-cd4a3078f815)
 
-
-
+![Screenshot 2025-04-26 123110](https://github.com/user-attachments/assets/2d97ee6a-7f8f-42ff-9622-3a60fc98f683)
 
 
 ## Result: 
